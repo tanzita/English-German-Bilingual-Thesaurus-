@@ -11,7 +11,7 @@ In this project we built a English-German Bilingual Thesaurus. We used sqlite to
 
 We made sure that indexing is done only once to perform the search operation more speedy. To make the system user friendly we created a Graphical User Interface where User can provide the input and view the output.
 
-![alt text](https://drive.google.com/file/d/1Oy9ZQWQBymI4aRRWxKEHt54yrlIsjTAj/view?usp=sharing)
+![English-German-Bilingual-Thesaurus](https://github.com/tanzita/English-German-Bilingual-Thesaurus-/blob/master/text_tech.PNG)
 
 We have sorted the output according to the hit count of individual result.
 
