@@ -13,16 +13,6 @@ We made sure that indexing is done only once to perform the search operation mor
 
 We have sorted the output according to the hit count of individual result.
 
-## Project Data
-
-Due to the large amount of database file (123 MB) we could not upload the project data. Therefore we have only uploaded the codes in the portal. We have uploaded the full importable version (in eclipse) of the full project in google drive. The link is as follows,
-
-https://goo.gl/wqm2Dy
-
-We have also uploaded the dependency jar files in the web. It can be helpful to import the project. The link is as follows,
-
-https://goo.gl/jNBwCL
-
 ## Work distribution
 
 The work scope of the two project members are described as follows,
